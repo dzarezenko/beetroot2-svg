@@ -1,0 +1,16 @@
+#svg {
+  background-image: url('../img/icon.svg');
+  width: 200px;
+  height: 200px;
+  display: block;
+}
+
+.cart {
+  fill: gray;
+  width: 70px;
+  height: 70px;
+}
+
+.carrot {
+  fill: orange;
+}
